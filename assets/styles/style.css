@@ -58,7 +58,7 @@ li {
 .grid-header {
   grid-column: 1 / 4;
   grid-row: 1;
-  background-color: #03a3df;
+  background-color: #037EAB;
 }
 
 nav {
@@ -101,7 +101,7 @@ a:hover {
   grid-column: 1 / 4;
   grid-row: 2;
   background-image: url("../images/hero-image-archer.jpg");
-  background-color: #03a3df;
+  background-color: #037EAB;
   background-repeat: no-repeat;
   background-size: 100% 350px;
 
@@ -117,13 +117,13 @@ a:hover {
 .grid-about {
   grid-column: 1 / 4;
   grid-row: 3;
-  background-color: #03a3df;
+  background-color: #037EAB;
 }
 
 .grid-gallery {
   grid-column: 1 / 4;
   grid-row: 4;
-  background-color: #03a3df;
+  background-color: #037EAB;
 }
 
 .column {
@@ -151,7 +151,7 @@ a:hover {
   background-image: url("../images/seattle-skyline-1024x516.png");
   background-repeat: no-repeat;
   background-size: 100% 500px;
-  background-color: #03a3df;
+  background-color: #037EAB;
 }
 
 .grid-location h2 {
@@ -167,7 +167,7 @@ a:hover {
 .grid-article {
   grid-column: 1 / 4;
   grid-row: 6;
-  background-color: #03a3df;
+  background-color: #037EAB;
   color: white;
   display: flex;
   flex-wrap: wrap;
@@ -176,7 +176,7 @@ a:hover {
 .grid-footer {
   grid-column: 1 / 4;
   grid-row: 7;
-  background-color: #03a3df;
+  background-color: #037EAB;
   background-image: url("../images/footerImage.jpg");
   background-repeat: no-repeat;
   background-size: 100% 250px;
@@ -186,7 +186,7 @@ a:hover {
 .grid-footer-instructors {
   grid-column: 1 / 4;
   grid-row: 6;
-  background-color: #03a3df;
+  background-color: #037EAB;
   background-image: url("../images/footerImage.jpg");
   background-repeat: no-repeat;
   background-size: 100% 250px;
